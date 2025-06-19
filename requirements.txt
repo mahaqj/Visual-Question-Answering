@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+Pillow
+gTTS
+playsound==1.2.2
+audiorecorder
+speechrecognition
