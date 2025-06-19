@@ -19,8 +19,7 @@ It lets users upload an image, ask a question (by voice or text), and get a gene
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/visual-question-answering.git
-cd visual-question-answering
+git clone https://github.com/mahaqj/Visual-Question-Answering.git
 ```
 
 ### 2. (Optional) Create a Virtual Environment
