@@ -69,16 +69,3 @@ streamlit run app.py
   - Use `os.system("start output.mp3")` instead of `playsound` if needed
 
 ---
-
-## requirements.txt
-
-```txt
-streamlit
-torch
-transformers
-Pillow
-gTTS
-playsound==1.2.2
-audiorecorder
-speechrecognition
-```
