@@ -69,3 +69,8 @@ streamlit run app.py
   - Use `os.system("start output.mp3")` instead of `playsound` if needed
 
 ---
+
+## Example Result
+
+![Screenshot 2025-06-19 135754](https://github.com/user-attachments/assets/021e1b04-7af0-42b0-b46c-91054eef8e92)
+![Screenshot 2025-06-19 135815](https://github.com/user-attachments/assets/72eb590a-6d68-494a-bfb9-5e28613e959e)
